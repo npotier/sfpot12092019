@@ -31,5 +31,4 @@ $ php step-7.php "your favorite band"
 
 ## Demo
 
-
-[![asciicast](https://asciinema.org/a/Dg3sLEMsaLIWDpmXPzmR38Fb9.svg)](https://asciinema.org/a/Dg3sLEMsaLIWDpmXPzmR38Fb9)
+![](step-7.gif)
