@@ -11,8 +11,8 @@ It contains examples about some Symfony components :
 
 ## One more thing 
 
-The step-7.php contains code that allows to play music directly in your terminal
-
+The step-7.php contains code that allows to play music directly in your terminal.
+It has been tested on Mac Os using `afplay`.
 
 ## Usage
 
